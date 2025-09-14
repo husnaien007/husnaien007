@@ -16,9 +16,9 @@
 ---
 
 #📈 GitHub Stats (Will grow with me 🚀)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=husnaien007&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husnaien007&layout=compact&theme=radical)
 
 ---
 
